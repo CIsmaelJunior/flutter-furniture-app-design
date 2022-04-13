@@ -1,2 +1,2 @@
-# flutter-furniture-app-desdign
-Application réalisé avec Flutter. Coté Front-end 
+# flutter-furniture-app-design
+Application réalisé avec Flutter. Interface UI Front-end 
